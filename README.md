@@ -1,2 +1,3 @@
 # prompt-protocol
-Prompt protocol v1 by V.E.
+Prompt protocol v1 by Valerii Egorov.
+Special Thanks to Denis bystruev.
